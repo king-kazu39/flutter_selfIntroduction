@@ -1,16 +1,15 @@
 # flutter_self_introduction
 
-A new Flutter project.
+## Flutterの教科書・実践課題A/B
 
-## Getting Started
+### ６章 Widgetの基礎『Twitter UI』
+A. 自己紹介ページを作ってみよう ここまで学んだことを活かして自己紹介ページを作ってみましょう。
 
-This project is a starting point for a Flutter application.
+B. お気に入りの画面をトレースしてみよう 普段使っているアプリであなたが「かっこいいな、美しいな」と感じる画面をトレースしてみましょう。
 
-A few resources to get you started if this is your first Flutter project:
+- 上記A・Bの課題をまとめて行いました。
+- atomic designを意識してファイル分割にチャレンジ。
+- IFがおかしいところはpageに渡すはずのモデル構造がイメージできてなかったため諦めて固定データを置いてます。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 実際の画面イメージ
+<img src="https://user-images.githubusercontent.com/25321380/184479912-75f18f05-c5bd-4bea-a12e-9598ef5d72d1.png" width=250> <img src="https://user-images.githubusercontent.com/25321380/184479914-acbddbb8-c277-48a9-bdfe-064c02f99687.png" width=250>
