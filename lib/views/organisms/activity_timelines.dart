@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import '../atoms/activity_detail.dart';
 import '../atoms/activity_icon.dart';
 
