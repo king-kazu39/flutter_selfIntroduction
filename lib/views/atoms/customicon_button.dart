@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+/// こういうの僕もよく作ります！
+/// いいと思います！
 class CustomIconButton extends StatelessWidget {
   const CustomIconButton({
     Key? key,
