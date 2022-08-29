@@ -29,6 +29,9 @@ class ProfilePage extends StatelessWidget {
             children: [
               const SizedBox(
                 width: double.infinity,
+
+                /// 外側から高さを指定できるようにしているが、この高さを変更されてしまうと [ProfileImages] が正しく表示されない。
+                /// [ProfileImages] に適切な高さがある場合は、内部的に高さを規定してもよいと思う。
                 height: 260,
                 child: ProfileImages(),
               ),
